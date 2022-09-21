@@ -1,0 +1,7 @@
+---
+Name: link-list-extensions
+---
+# Adds css requirement directive
+PageController:
+  extensions:
+    - Pikselin\LinkList\Extensions\LinkListControllerExtension

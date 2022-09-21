@@ -1,0 +1,21 @@
+/**
+ * Override these styles in your own Stylesheet.
+ **/
+
+.pikselin__linklist__elements__linklist {
+    padding-bottom: 2rem;
+}
+.pikselin__linklist__elements__linklist .hyperlink {
+    display: flex;
+    font-size: 1.125rem;
+    font-weight: bold;
+    gap: 1.25rem;
+    margin-top: 0.75rem;
+}
+.pikselin__linklist__elements__linklist .svg-icon-arrow-forward {
+    flex: 0 0 1rem;
+    height: 1rem;
+    line-height: 1rem;
+    transform: translateY(0.375rem);
+    width: 1rem;
+}

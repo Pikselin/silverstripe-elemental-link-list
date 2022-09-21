@@ -1,0 +1,37 @@
+{
+	"name": "pikselin/silverstripe-elemental-link-list",
+	"description": "Block for a list of links",
+	"type": "silverstripe-vendormodule",
+	"authors": [
+		{
+			"name": "Pikselin",
+			"email": "dev@pikselin.com",
+			"homepage": "https://www.pikselin.com"
+		}
+	],
+	"keywords": [
+		"silverstripe",
+		"elemental",
+		"links"
+	],
+	"require": {
+		"silverstripe/cms": "^4",
+		"silverstripe/framework": "^4",
+		"dnadesign/silverstripe-elemental": "^4",
+		"gorriecoe/silverstripe-link": "^1",
+        "symbiote/silverstripe-gridfieldextensions": "^3"
+	},
+	"license": "The MIT License (MIT)",
+	"autoload": {
+		"psr-4": {
+			"Pikselin\\LinkList\\": "src/"
+		}
+	},
+    "extra": {
+        "expose": [
+            "client"
+        ]
+    },
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}

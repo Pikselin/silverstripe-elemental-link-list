@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <symbol viewBox="0 0 100 100" id="arrow-forward" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M8.2 56.3H77L46.9 86.4c-2.4 2.4-2.4 6.3 0 8.7 2.4 2.4 6.3 2.4 8.7 0l40.6-40.6c2.4-2.4 2.4-6.3 0-8.7L55.7 5.2c-2.2-2.6-6.1-2.9-8.7-.7-2.6 2.2-2.9 6.1-.7 8.7.2.2.4.5.7.7L77 44H8.2C4.8 44 2 46.8 2 50.2c0 3.4 2.8 6.1 6.2 6.1z"/></symbol>
+</svg>
