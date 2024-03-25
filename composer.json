@@ -15,11 +15,10 @@
 		"links"
 	],
 	"require": {
-		"silverstripe/cms": "^4",
-		"silverstripe/framework": "^4",
-		"dnadesign/silverstripe-elemental": "^4",
+		"silverstripe/cms": "^4 || ^5",
+		"dnadesign/silverstripe-elemental": "^4 || ^5",
 		"gorriecoe/silverstripe-link": "^1",
-        "symbiote/silverstripe-gridfieldextensions": "^3"
+        "symbiote/silverstripe-gridfieldextensions": "^3 || ^4"
 	},
 	"license": "The MIT License (MIT)",
 	"autoload": {
